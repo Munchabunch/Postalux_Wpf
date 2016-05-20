@@ -1,0 +1,13 @@
+C:\Users\Michael.C.Adams\PD\Postalux_Wpf\Postalux_Wpf\bin\Debug\Postalux_Wpf.exe.config
+C:\Users\Michael.C.Adams\PD\Postalux_Wpf\Postalux_Wpf\bin\Debug\Postalux_Wpf.exe
+C:\Users\Michael.C.Adams\PD\Postalux_Wpf\Postalux_Wpf\bin\Debug\Postalux_Wpf.pdb
+C:\Users\Michael.C.Adams\PD\Postalux_Wpf\Postalux_Wpf\obj\Debug\Postalux_Wpf.csprojResolveAssemblyReference.cache
+C:\Users\Michael.C.Adams\PD\Postalux_Wpf\Postalux_Wpf\obj\Debug\Postalux.baml
+C:\Users\Michael.C.Adams\PD\Postalux_Wpf\Postalux_Wpf\obj\Debug\Postalux.g.cs
+C:\Users\Michael.C.Adams\PD\Postalux_Wpf\Postalux_Wpf\obj\Debug\App.g.cs
+C:\Users\Michael.C.Adams\PD\Postalux_Wpf\Postalux_Wpf\obj\Debug\Postalux_Wpf_MarkupCompile.cache
+C:\Users\Michael.C.Adams\PD\Postalux_Wpf\Postalux_Wpf\obj\Debug\Postalux_Wpf.g.resources
+C:\Users\Michael.C.Adams\PD\Postalux_Wpf\Postalux_Wpf\obj\Debug\Postalux_Wpf.Properties.Resources.resources
+C:\Users\Michael.C.Adams\PD\Postalux_Wpf\Postalux_Wpf\obj\Debug\Postalux_Wpf.csproj.GenerateResource.Cache
+C:\Users\Michael.C.Adams\PD\Postalux_Wpf\Postalux_Wpf\obj\Debug\Postalux_Wpf.exe
+C:\Users\Michael.C.Adams\PD\Postalux_Wpf\Postalux_Wpf\obj\Debug\Postalux_Wpf.pdb

@@ -1,0 +1,237 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Cards>
+  <Card>
+    <ScottUxNum>1</ScottUxNum>
+    <FaceVal>.01</FaceVal>
+    <Descr>Brown Liberty Head</Descr>
+    <Issued>1863-05</Issued>
+  </Card>
+  <Card>
+    <ScottUxNum>3</ScottUxNum>
+    <FaceVal>.01</FaceVal>
+    <Descr>Brown Liberty Head</Descr>
+    <Issued>1863-07-06</Issued>
+  </Card>
+  <Card>
+    <ScottUxNum>4</ScottUxNum>
+    <FaceVal>.01</FaceVal>
+    <Descr>Black Liberty Head</Descr>
+    <Issued>1875-09-28</Issued>
+  </Card>
+  <Card>
+    <ScottUxNum>5</ScottUxNum>
+    <FaceVal>.01</FaceVal>
+    <Descr>Black Liberty Head</Descr>
+    <Issued>1875-09-30</Issued>
+  </Card>
+  <Card>
+    <ScottUxNum>6</ScottUxNum>
+    <FaceVal>.02</FaceVal>
+    <Descr>Blue Liberty Head</Descr>
+    <Issued>1879-12-01</Issued>
+  </Card>
+  <Card>
+    <ScottUxNum>7</ScottUxNum>
+    <FaceVal>.01</FaceVal>
+    <Descr>Black Liberty Head</Descr>
+    <Issued>1881-10-17</Issued>
+  </Card>
+  <Card>
+    <ScottUxNum>8</ScottUxNum>
+    <FaceVal>.01</FaceVal>
+    <Descr>Brown Jefferson (facing Left)</Descr>
+  </Card>
+  <Card>
+    <ScottUxNum>9</ScottUxNum>
+    <FaceVal>.01</FaceVal>
+    <Descr>Black Jefferson in Center of card (facing right)</Descr>
+    <Issued>1886-12-01</Issued>
+    <Lettering>UNITED STATES¶POSTAL¶CARD¶ONE CENT¶NOTHING BUT THE ADDRESS TO BE ON THIS SIDE.</Lettering>
+  </Card>
+  <Card>
+    <ScottUxNum>10</ScottUxNum>
+    <FaceVal>.01</FaceVal>
+    <Descr>Black Grant (on Large Card)</Descr>
+  </Card>
+  <Card>
+    <ScottUxNum>11</ScottUxNum>
+    <FaceVal>.01</FaceVal>
+    <Descr>Blue Grant (on Small Card)</Descr>
+    <Lettering>POSTAL CARD¶ONE CENT¶United States of America¶THIS SIDE IS FOR ADDRESS ONLY</Lettering>
+  </Card>
+  <Card>
+    <ScottUxNum>12</ScottUxNum>
+    <FaceVal>.01</FaceVal>
+    <Descr>Black Jefferson (facing Left)</Descr>
+  </Card>
+  <Card>
+    <ScottUxNum>14</ScottUxNum>
+    <FaceVal>.01</FaceVal>
+    <Descr>Black Jefferson (facing Left)</Descr>
+  </Card>
+  <Card>
+    <ScottUxNum>15</ScottUxNum>
+    <FaceVal>.01</FaceVal>
+    <Descr>Adams</Descr>
+    <Issued>1898</Issued>
+  </Card>
+  <Card>
+    <ScottUxNum>17</ScottUxNum>
+    <FaceVal>.01</FaceVal>
+    <Descr>McKinley</Descr>
+    <Issued>1902</Issued>
+  </Card>
+  <Card>
+    <ScottUxNum>18</ScottUxNum>
+    <FaceVal>.01</FaceVal>
+    <Descr>McKinley</Descr>
+    <Issued>1902</Issued>
+  </Card>
+  <Card>
+    <ScottUxNum>20</ScottUxNum>
+    <FaceVal>.01</FaceVal>
+    <Descr>McKinley</Descr>
+    <Issued>1908-01-02</Issued>
+    <Lettering>UNITED STATES OF AMERICA¶1843¶1901¶McKINLEY¶POSTAGE¶ONE CENT¶POSTAL CARD¶THE SPACE BELOW IS FOR THE ADDRESS ONLY¶THE SPACE BELOW MAY BE USED FOR CORRESPONDENCE</Lettering>
+  </Card>
+  <Card>
+    <ScottUxNum>023</ScottUxNum>
+    <FaceVal>.01</FaceVal>
+    <Descr>Lincoln</Descr>
+  </Card>
+  <Card>
+    <ScottUxNum>027</ScottUxNum>
+    <FaceVal>.01</FaceVal>
+    <Descr>Jefferson</Descr>
+  </Card>
+  <Card>
+    <ScottUxNum>030</ScottUxNum>
+    <FaceVal>.01</FaceVal>
+    <Descr>Jefferson</Descr>
+  </Card>
+  <Card>
+    <ScottUxNum>32</ScottUxNum>
+    <FaceVal>.01</FaceVal>
+    <Descr>Jefferson w/1c Overprint Die I</Descr>
+  </Card>
+  <Card>
+    <ScottUxNum>33</ScottUxNum>
+    <FaceVal>.01</FaceVal>
+    <Descr>Jefferson w/1c Overprint Die II</Descr>
+  </Card>
+  <Card>
+    <ScottUxNum>37</ScottUxNum>
+    <FaceVal>.03</FaceVal>
+    <Descr>McKinley For International Use</Descr>
+  </Card>
+  <Card>
+    <ScottUxNum>38</ScottUxNum>
+    <FaceVal>.02</FaceVal>
+    <Descr>Carmin Rose Benjamin Franklin</Descr>
+  </Card>
+  <Card>
+    <ScottUxNum>76</ScottUxNum>
+    <FaceVal>.14</FaceVal>
+    <Descr>Coast Guard Cutter Eagle</Descr>
+  </Card>
+  <Card>
+    <ScottUxNum>77</ScottUxNum>
+    <FaceVal>.10</FaceVal>
+    <Descr>Molly Pitcher, Monmouth</Descr>
+    <Issued>1978</Issued>
+  </Card>
+  <Card>
+    <ScottUxNum>78</ScottUxNum>
+    <FaceVal>.10</FaceVal>
+    <Descr>George Rogers Clark</Descr>
+    <Lettering>USA 10c¶George Rogers Clark, Vincennes, 1779¶© USPS 1979</Lettering>
+    <Issued>1979</Issued>
+  </Card>
+  <Card>
+    <ScottUxNum>79</ScottUxNum>
+    <FaceVal>.10</FaceVal>
+    <Descr>Casimir Pulaski</Descr>
+    <Lettering>USA 10c¶Casimir Pulaski, Savannah, 1779¶© USPS 1979</Lettering>
+    <Issued>1979</Issued>
+  </Card>
+  <Card>
+    <ScottUxNum>80</ScottUxNum>
+    <FaceVal>.10</FaceVal>
+    <Descr>Olympics 1980, Running</Descr>
+    <Series>Olympics</Series>
+    <Lettering>USA¶10c¶Olympics 1980¶© USPS 1979</Lettering>
+    <Issued>1979</Issued>
+  </Card>
+  <Card>
+    <ScottUxNum>81</ScottUxNum>
+    <FaceVal>.10</FaceVal>
+    <Descr>Iolani Palace</Descr>
+    <Series>Historic Preservation</Series>
+    <Lettering>Iolani Palace¶Honolulu¶Hawaii¶USA 10c¶Historic Preservation¶© USPS 1979</Lettering>
+    <Issued>1979</Issued>
+  </Card>
+  <Card>
+    <ScottUxNum>82</ScottUxNum>
+    <FaceVal>.14</FaceVal>
+    <Descr>Olympics 1980, Figure skating</Descr>
+    <Series>Olympics</Series>
+    <Lettering>USA¶Olympics 1980¶14c¶© USPS 1979</Lettering>
+    <Issued>1979</Issued>
+  </Card>
+  <Card>
+    <ScottUxNum>83</ScottUxNum>
+    <FaceVal>.10</FaceVal>
+    <Descr>Salt Lake Temple</Descr>
+    <Series>Historic Preservation</Series>
+    <Lettering>Sale Lake Temple USA 10c¶HISTORIC PRESERVATION¶© USPS 1980</Lettering>
+    <Issued>1979</Issued>
+  </Card>
+  <Card>
+    <ScottUxNum>84</ScottUxNum>
+    <FaceVal>.10</FaceVal>
+    <Descr>Landing of Rochambeau</Descr>
+    <Lettering>USA 10c¶Landing of Rochambeau, 1780¶© USPS 1980</Lettering>
+    <Issued>1980</Issued>
+  </Card>
+  <Card>
+    <ScottUxNum>85</ScottUxNum>
+    <FaceVal>.10</FaceVal>
+    <Descr>Battle of Kings Mountain</Descr>
+    <Issued>1980</Issued>
+    <Lettering>USA 10c¶Battle of Kings Mountain, 1780¶© USPS 1980</Lettering>
+  </Card>
+  <Card>
+    <ScottUxNum>86</ScottUxNum>
+    <FaceVal>.19</FaceVal>
+    <Descr>Drake's Golden Hinde</Descr>
+    <Issued>1980</Issued>
+    <Lettering>USA 19c¶Drake's Golden Hinde 1580¶© USPS 1980</Lettering>
+  </Card>
+  <Card>
+    <ScottUxNum>87</ScottUxNum>
+    <FaceVal>.10</FaceVal>
+    <Descr>Battle of Cowpens</Descr>
+    <Issued>1980</Issued>
+    <Lettering>USA 10c¶Battle of Cowpens, 1781¶© USPS 1980</Lettering>
+  </Card>
+  <Card>
+    <ScottUxNum>88</ScottUxNum>
+    <FaceVal>0</FaceVal>
+    <Descr>Eagle</Descr>
+    <Lettering>US¶Domestic Rate</Lettering>
+  </Card>
+  <Card>
+    <ScottUxNum>89</ScottUxNum>
+    <FaceVal>.13</FaceVal>
+    <Descr>Robert Morris</Descr>
+    <Issued>1980</Issued>
+    <Lettering>Robert Morris¶Patriot¶U.S. Postage 13¢¶© USPS 1981</Lettering>
+  </Card>
+  <Card>
+    <ScottUxNum>124</ScottUxNum>
+    <FaceVal>.15</FaceVal>
+    <Descr>Settling of Ohio, Northwest Territory</Descr>
+    <Issued>1980</Issued>
+    <Lettering>USA 15¶Settling of Ohio, Northwest Territory, 1788¶Northwest Territory¶UNITED STATES OF AMERICA¶© USPS 1988</Lettering>
+  </Card>
+</Cards>

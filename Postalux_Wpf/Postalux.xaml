@@ -1,0 +1,43 @@
+﻿<Window x:Class="Postalux_Wpf.Postalux"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainWindow" Height="350" Width="712"
+        Loaded="Window_Loaded"
+        >
+    <DockPanel LastChildFill="True">
+        <ToolBar Name="oToolbar_Main"
+                 Height="30"
+                 DockPanel.Dock="Top"
+                 >
+            <TextBox Name="textbox_SearchByDescr" Height="25" Margin="0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="160"
+                     BorderThickness="2"
+                     TextChanged="textbox_SearchByDescr_TextChanged"
+                     >
+            </TextBox>
+        </ToolBar>
+        <ListView Name="lv_Cards" DockPanel.Dock="Right">
+            <ListView.Resources>
+                <Style TargetType="{x:Type GridViewColumnHeader}">
+                    <Setter Property="HorizontalContentAlignment" Value="Left" />
+                </Style>
+            </ListView.Resources>
+            <ListView.View>
+                <GridView>
+                    <GridViewColumn Header="Scott No." Width="70">
+                        <GridViewColumn.CellTemplate>
+                            <DataTemplate>
+                                <TextBlock Text="{Binding ScottNum}" TextDecorations="Underline" Foreground="Blue" Cursor="Hand" FontWeight="Bold" />
+                            </DataTemplate>
+                        </GridViewColumn.CellTemplate>
+                    </GridViewColumn>
+                    <GridViewColumn Header="Face val." Width="70" DisplayMemberBinding="{Binding FaceVal}" />
+                    <GridViewColumn Header="Description" Width="250" DisplayMemberBinding="{Binding Descr}" />
+                    <GridViewColumn Header="Issued" Width="80" DisplayMemberBinding="{Binding Issued}" />
+                    <GridViewColumn Header="" Width="150" DisplayMemberBinding="{Binding Illustration}" />
+                    <GridViewColumn Header="" Width="50" DisplayMemberBinding="{Binding Marked}" />
+                    <GridViewColumn Header="" Width="50" DisplayMemberBinding="{Binding More}" />
+                </GridView>
+            </ListView.View>
+        </ListView>
+    </DockPanel>
+</Window>
